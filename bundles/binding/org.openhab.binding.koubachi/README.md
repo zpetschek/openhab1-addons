@@ -1,5 +1,7 @@
 # Koubachi Binding
 
+NOTE: This product was acquired by Husqvarna Group in 2015 and since has been discontinued. https://www.crunchbase.com/organization/koubachi#section-m-a-details
+
 The [Koubachi](http://www.koubachi.com) Services help everybody without a green thumb to be a perfect gardener. All plants can be registered on their really nice website (or through iPhone/iPad App) to tell you when and how to care for your plants. Furthermore they offer a dedicated hardware, the WIFI Plant Sensor. This wireless device measures vital parameters and determines the vitality of your plants.
 
 Koubachis' slogan "give your plants a voice" becomes reality with this binding. It queries all relevant data through Koubachi's [webservice](http://labs.koubachi.com) and pushes it into openHAB.
